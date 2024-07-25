@@ -1,0 +1,14 @@
+Concatenated Terraform Configurations Report
+=============================================
+
+Files Included:
+----------------
+all_terraform_configs.tf
+combined_terraform.tf
+main.tf
+outputs.tf
+provider.tf
+variables.tf
+versions.tf
+
+All Terraform files have been concatenated into all_terraform_configs.tf.
